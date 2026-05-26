@@ -118,7 +118,7 @@ module tb ();
 
     // Finish simulation
     #20;
-    $finish;
+//    $finish;
 
   end
 

@@ -41,6 +41,5 @@ pinout:
   uio[6]: "Input B bit 6"
   uio[7]: "Input B bit 7"
 
-yaml_version: 6
 # Do not change!
 yaml_version: 6
